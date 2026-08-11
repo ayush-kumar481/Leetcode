@@ -4,20 +4,22 @@ public:
         if(nums.empty()){
             return 0;
         }
-        sort(nums.begin(), nums.end());
-        int cnt = 1;
-        int ans = 1;
-        for(int i = 1; i<nums.size(); i++){
-            if(nums[i] == nums[i-1]){
-                continue;
-            }
-            else if(nums[i] == nums[i-1] + 1){
-                cnt++;
-            }else{
-                cnt = 1;
-            }
-            ans = max(cnt,ans);
+        int longest = 1;
+        unordered_set<int>st;
+        for(int i = 0; i<nums.size(); i++){
+            st.insert(nums[i]);
         }
-        return ans;
+        for(auto it : st){
+            if(st.find(it - 1) == st.end()){
+                int cnt = 1;
+                int current = it;
+                while(st.find(current + 1) != st.end()){
+                    cnt++;
+                    current+=1;
+                }
+                longest = max(longest,cnt);
+            }
+        }
+        return longest;
     }
 };
