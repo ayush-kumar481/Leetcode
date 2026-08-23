@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayush-kumar481/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ayush-kumar481/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-kumar481/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2855-minimum-right-shifts-to-sort-the-array](https://github.com/ayush-kumar481/Leetcode/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 ## Hash Table
 |  |
 | ------- |
