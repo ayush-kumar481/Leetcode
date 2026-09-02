@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ayush-kumar481/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ayush-kumar481/Leetcode/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/ayush-kumar481/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ayush-kumar481/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/ayush-kumar481/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ayush-kumar481/Leetcode/tree/master/0136-single-number) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayush-kumar481/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/ayush-kumar481/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
