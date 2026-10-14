@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayush-kumar481/Leetcode/tree/master/0011-container-with-most-water) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayush-kumar481/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ayush-kumar481/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ayush-kumar481/Leetcode/tree/master/0066-plus-one) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ayush-kumar481/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Tree
 |  |
 | ------- |
