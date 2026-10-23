@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayush-kumar481/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ayush-kumar481/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/ayush-kumar481/Leetcode/tree/master/0645-set-mismatch) |
+| [0739-daily-temperatures](https://github.com/ayush-kumar481/Leetcode/tree/master/0739-daily-temperatures) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayush-kumar481/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ayush-kumar481/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-kumar481/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayush-kumar481/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/ayush-kumar481/Leetcode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/ayush-kumar481/Leetcode/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/ayush-kumar481/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayush-kumar481/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ayush-kumar481/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
