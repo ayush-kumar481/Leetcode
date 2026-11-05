@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ayush-kumar481/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1254-number-of-closed-islands](https://github.com/ayush-kumar481/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayush-kumar481/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayush-kumar481/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/ayush-kumar481/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-kumar481/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1929-concatenation-of-array](https://github.com/ayush-kumar481/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ayush-kumar481/Leetcode/tree/master/0645-set-mismatch) |
 | [0853-car-fleet](https://github.com/ayush-kumar481/Leetcode/tree/master/0853-car-fleet) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayush-kumar481/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayush-kumar481/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayush-kumar481/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayush-kumar481/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ayush-kumar481/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-kumar481/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/ayush-kumar481/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/ayush-kumar481/Leetcode/tree/master/0567-permutation-in-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayush-kumar481/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-kumar481/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayush-kumar481/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0875-koko-eating-bananas](https://github.com/ayush-kumar481/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayush-kumar481/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayush-kumar481/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayush-kumar481/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
