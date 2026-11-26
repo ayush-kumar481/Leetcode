@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ayush-kumar481/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/ayush-kumar481/Leetcode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/ayush-kumar481/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0989-add-to-array-form-of-integer](https://github.com/ayush-kumar481/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1254-number-of-closed-islands](https://github.com/ayush-kumar481/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ayush-kumar481/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1352-product-of-the-last-k-numbers](https://github.com/ayush-kumar481/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ayush-kumar481/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayush-kumar481/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayush-kumar481/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0989-add-to-array-form-of-integer](https://github.com/ayush-kumar481/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1352-product-of-the-last-k-numbers](https://github.com/ayush-kumar481/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-kumar481/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/ayush-kumar481/Leetcode/tree/master/2409-count-days-spent-together) |
